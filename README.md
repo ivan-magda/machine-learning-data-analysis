@@ -6,7 +6,7 @@ This repository contains demo projects and assignments I have done during the [M
 
 If you are a current Machine Learning and Data Analysis student at Coursera who has not yet made a final submission of this assignment, then looking at this solution for any amount of time constitutes a violation of Coursera's Honor Code.
 
-#### Subdomains:
+#### Courses:
 
 - [Mathematics and Python for Data Analysis](./mathematics-python-for-data-analysis)
 
