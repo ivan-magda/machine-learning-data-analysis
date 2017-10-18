@@ -9,3 +9,4 @@
 	- [Loops, Functions, Generators and List Comprehensions](./loops-and-functions)
 	- [Read Data from a File](./read-from-file)
 	- [Write/Edit File](./write-to-file)
+	- [Notes: Programming in Python](./notes/1-2.Programmirovanie_na_Python.pdf)
