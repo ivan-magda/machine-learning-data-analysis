@@ -8,3 +8,4 @@
 	- [Python Data Types](./data-types)
 	- [Loops, Functions, Generators and List Comprehensions](./loops-and-functions)
 	- [Read Data from a File](./read-from-file)
+	- [Write/Edit File](./write-to-file)
