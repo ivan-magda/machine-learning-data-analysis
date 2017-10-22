@@ -10,4 +10,4 @@
 	- [Read Data from a File](./read-from-file)
 	- [Write/Edit File](./write-to-file)
 	- [Notes: Programming in Python](./notes/1-2.Programmirovanie_na_Python.pdf)
-	- [Notes: Foundations of Mathematical Analysis](./1-3.Osnovy-matematicheskogo-analiza.pdf)
+	- [Notes: Foundations of Mathematical Analysis](./notes/1-3.Osnovy-matematicheskogo-analiza.pdf)
