@@ -11,3 +11,5 @@
 	- [Write/Edit File](./write-to-file)
 	- [Notes: Programming in Python](./notes/1-2.Programmirovanie_na_Python.pdf)
 	- [Notes: Foundations of Mathematical Analysis](./notes/1-3.Osnovy-matematicheskogo-analiza.pdf)
+- Week 2
+	- [Pandas. Data Frame](./pandas-dataframe)
