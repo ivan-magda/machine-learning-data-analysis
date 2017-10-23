@@ -14,3 +14,4 @@
 - Week 2
 	- [Pandas. Data Frame](./pandas-dataframe)
 	- [Pandas. Indexing and Selection](./pandas-indexing-selection)
+	- [Introduction to NumPy, SciPy and Matplotlib](./numpy-scipy-matplotlib-intro)
