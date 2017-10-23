@@ -13,3 +13,4 @@
 	- [Notes: Foundations of Mathematical Analysis](./notes/1-3.Osnovy-matematicheskogo-analiza.pdf)
 - Week 2
 	- [Pandas. Data Frame](./pandas-dataframe)
+	- [Pandas. Indexing and Selection](./pandas-indexing-selection)
