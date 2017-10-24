@@ -17,4 +17,5 @@
 	- [Introduction to NumPy, SciPy and Matplotlib](./numpy-scipy-matplotlib-intro)
 	- [SciPy: Optimization](./scipy-optimization)
 	- [NumPy: Vector Operations](./vector-operations)
+	- [Notes: Introduction to Linear Algebra](./notes/2-1.Znakomstvo-s-linejnoj-algebroj.pdf)
 - [Notes](./notes.md)
