@@ -12,9 +12,9 @@
 	- [Notes: Programming in Python](./notes/1-2.Programmirovanie_na_Python.pdf)
 	- [Notes: Foundations of Mathematical Analysis](./notes/1-3.Osnovy-matematicheskogo-analiza.pdf)
 - Week 2
-	- [Pandas. Data Frame](./pandas-dataframe)
-	- [Pandas. Indexing and Selection](./pandas-indexing-selection)
+	- [Pandas: Data Frame](./pandas-dataframe)
+	- [Pandas: Indexing and Selection](./pandas-indexing-selection)
 	- [Introduction to NumPy, SciPy and Matplotlib](./numpy-scipy-matplotlib-intro)
-	- [SciPy Optimization](./scipy-optimization)
+	- [SciPy: Optimization](./scipy-optimization)
 	- [NumPy: Vector Operations](./vector-operations)
 - [Notes](./notes.md)
