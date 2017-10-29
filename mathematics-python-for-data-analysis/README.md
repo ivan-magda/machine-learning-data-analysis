@@ -20,4 +20,5 @@
 	- [Notes: Introduction to Linear Algebra](./notes/2-1.Znakomstvo-s-linejnoj-algebroj.pdf)
 	- [NumPy: Matrix Operations](./matrix-operations)
 	- [Notes: Matrix Basic Operations](./notes/2-2.Matricy-i-osnovnye-matrichnye-operacii.pdf)
+	- [Linear Algebra: the Similarity of Texts and Approximation of Functions](./similarity-texts-approximation-functions)
 - [Notes](./notes.md)
