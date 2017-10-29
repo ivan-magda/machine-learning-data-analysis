@@ -21,4 +21,5 @@
 	- [NumPy: Matrix Operations](./matrix-operations)
 	- [Notes: Matrix Basic Operations](./notes/2-2.Matricy-i-osnovnye-matrichnye-operacii.pdf)
 	- [Task: The Similarity of Texts](./task-similarity-texts)
+	- [Task: Function Approximation](./task-approximation-functions)
 - [Notes](./notes.md)
