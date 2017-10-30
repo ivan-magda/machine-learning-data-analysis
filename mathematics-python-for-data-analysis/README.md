@@ -22,4 +22,6 @@
 	- [Notes: Matrix Basic Operations](./notes/2-2.Matricy-i-osnovnye-matrichnye-operacii.pdf)
 	- [Task: The Similarity of Texts](./task-similarity-texts)
 	- [Task: Function Approximation](./task-approximation-functions)
+- Week 3
+	- [Notes: Functions of Several Variables](./notes/3-1.Funkcii-mnogih-peremennyh.pdf)
 - [Notes](./notes.md)
