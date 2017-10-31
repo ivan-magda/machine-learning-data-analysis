@@ -24,4 +24,5 @@
 	- [Task: Function Approximation](./task-approximation-functions)
 - Week 3
 	- [Syllabus: Functions of Several Variables](./syllabus/3-1.Funkcii-mnogih-peremennyh.pdf)
+	- [Syllabus: Optimization Methods](./syllabus/3-2.Metody_optimizacii.pdf)
 - [Notes](./notes.md)
