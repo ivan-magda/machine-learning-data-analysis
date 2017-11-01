@@ -25,4 +25,5 @@
 - Week 3
 	- [Syllabus: Functions of Several Variables](./syllabus/3-1.Funkcii-mnogih-peremennyh.pdf)
 	- [Syllabus: Optimization Methods](./syllabus/3-2.Metody_optimizacii.pdf)
+	- [Task: Minimization of Smooth Functions](./task-minimization-smooth-functions)
 - [Notes](./notes.md)
