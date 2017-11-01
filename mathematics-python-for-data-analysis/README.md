@@ -28,4 +28,5 @@
 	- [Task: Minimization of Smooth Functions](./task-minimization-smooth-functions)
 	- [Task: Global Optimization](./task-minimization-global)
 	- [Task: Minimization of Non-Smooth Functions](./task-minimization-non-smooth-functions)
+	- [Syllabus: Singular Value Decomposition of a Matrix](./syllabus/3-3.Singulyarnoe_razlozhenie_matric.pdf)
 - [Notes](./notes.md)
