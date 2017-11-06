@@ -30,6 +30,6 @@
 	- [Task: Minimization of Non-Smooth Functions](./task-minimization-non-smooth-functions)
 	- [Syllabus: Singular Value Decomposition of a Matrix](./syllabus/3-3.Singulyarnoe_razlozhenie_matric.pdf)
 - Week 4
-	- [Syllabus: Зrobability and Кandom Мariables](./syllabus/4-1.Veroyatnost-i-sluchajnye-velichiny.pdf)
+	- [Syllabus: Probability and Random Variables](./syllabus/4-1.Veroyatnost-i-sluchajnye-velichiny.pdf)
 	- [Stochastic Variables](./stochastic-variables)
 - [Notes](./notes.md)
