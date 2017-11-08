@@ -31,5 +31,5 @@
 	- [Syllabus: Singular Value Decomposition of a Matrix](./syllabus/3-3.Singulyarnoe_razlozhenie_matric.pdf)
 - Week 4
 	- [Syllabus: Probability and Random Variables](./syllabus/4-1.Veroyatnost-i-sluchajnye-velichiny.pdf)
-	- [Stochastic Variables](./stochastic-variables)
+	- [Stochastic Variables](./stochastic-variables/stochastic_variables.ipynb)
 - [Notes](./notes.md)
