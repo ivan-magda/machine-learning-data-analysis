@@ -32,4 +32,5 @@
 - Week 4
 	- [Syllabus: Probability and Random Variables](./syllabus/4-1.Veroyatnost-i-sluchajnye-velichiny.pdf)
 	- [Stochastic Variables](./stochastic-variables/stochastic_variables.ipynb)
+	- [Distribution Evaluation](./distribution-evaluation/sample_distribution_evaluation.ipynb)
 - [Notes](./notes.md)
