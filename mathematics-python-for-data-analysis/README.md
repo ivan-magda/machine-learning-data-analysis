@@ -35,4 +35,5 @@
 	- [Distribution Evaluation](./distribution-evaluation/sample_distribution_evaluation.ipynb)
 	- [Task: Central Limit Theorem](./task-central-limit-theorem)
 	- [Syllabus: statistics](./syllabus/4-2.Statistiki.pdf)
+- [Bonus](./bonus-wine)
 - [Notes](./notes.md)
