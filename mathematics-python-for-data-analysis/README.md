@@ -34,4 +34,5 @@
 	- [Stochastic Variables](./stochastic-variables/stochastic_variables.ipynb)
 	- [Distribution Evaluation](./distribution-evaluation/sample_distribution_evaluation.ipynb)
 	- [Task: Central Limit Theorem](./task-central-limit-theorem)
+	- [Syllabus: statistics](./syllabus/4-2.Statistiki.pdf)
 - [Notes](./notes.md)
