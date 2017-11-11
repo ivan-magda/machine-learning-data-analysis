@@ -37,3 +37,4 @@
 	- [Syllabus: statistics](./syllabus/4-2.Statistiki.pdf)
 - [Bonus](./bonus-wine)
 - [Notes](./notes.md)
+- [Reference List](./reference-list)
