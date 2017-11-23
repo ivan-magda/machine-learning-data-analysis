@@ -9,6 +9,7 @@ If you are a current Machine Learning and Data Analysis student at Coursera who 
 #### Courses:
 
 - [Mathematics and Python for Data Analysis](./mathematics-python-for-data-analysis)
+- [Supervised Learning](./supervised-learning)
 
 
 #### Credits:
