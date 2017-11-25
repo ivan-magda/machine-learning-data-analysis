@@ -2,5 +2,9 @@
 
 #### Subdomains:
 - Week 1
-	- [Slides: Introduction to Machine Learning](./slides/1-1.Znakomstvo_s_machinym_obucheniem-Slides.pdf)
-	- [Syllabus: Introduction to Machine Learning](./syllabus/1-1.Znakomstvo_s_mashinnym_obucheniem.pdf)
+	- Introduction to Machine Learning:
+		- [Slides](./slides/1-1.Znakomstvo_s_machinym_obucheniem-Slides.pdf)
+		- [Syllabus](./syllabus/1-1.Znakomstvo_s_mashinnym_obucheniem.pdf)
+	- Linear Models:
+		- [Slides](./slides/1-2.Lineynye_modeli-Slides.pdf)
+		- [Syllabus](./syllabus/1-2.Linejnye_modeli.pdf)
