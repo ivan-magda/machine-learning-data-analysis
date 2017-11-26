@@ -8,3 +8,6 @@
 	- Linear Models:
 		- [Slides](./slides/1-2.Lineynye_modeli-Slides.pdf)
 		- [Syllabus](./syllabus/1-2.Linejnye_modeli.pdf)
+	- Tasks:
+		- [Linreg: Height/Weight](./linreg-height-weight/peer_review_linreg_height_weight.ipynb)
+		
