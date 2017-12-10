@@ -1,6 +1,6 @@
 # Supervised Learning
 
-#### Subdomains:
+#### Curriculum:
 - Week 1
 	- Introduction to Machine Learning:
 		- [Slides](./slides/1-1.Znakomstvo_s_machinym_obucheniem-Slides.pdf)
