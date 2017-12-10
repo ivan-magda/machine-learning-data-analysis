@@ -16,4 +16,8 @@ A supervised learning algorithm analyzes the training data and produces an infer
 		- [Syllabus](./syllabus/1-2.Linejnye_modeli.pdf)
 	- Tasks:
 		- [Linreg: Height/Weight](./linreg-height-weight/peer_review_linreg_height_weight.ipynb)
+- Week 2
+	- Prevent Overfitting and Measure Quality:
+		- [Slides](./slides/2-1.Problema_pereobucheniya-Slides.pdf)
+		- [Syllabus](./syllabus/2-1.Problema_pereobucheniya_i_bor_ba_s_nej.pdf)
 		
