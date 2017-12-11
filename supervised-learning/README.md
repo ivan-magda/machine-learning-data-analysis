@@ -25,4 +25,5 @@ A supervised learning algorithm analyzes the training data and produces an infer
 		- [Syllabus](./syllabus/2-2.Metriki_kachestva.pdf)
 	- Intro to *scikit-learn*:
 		- [Datasets](./sklearn-datasets/sklearn-datasets.ipynb)
+		- [Cross-validation](./sklearn-cross-validation)
 		
