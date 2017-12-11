@@ -20,4 +20,7 @@ A supervised learning algorithm analyzes the training data and produces an infer
 	- Prevent Overfitting and Measure Quality:
 		- [Slides](./slides/2-1.Problema_pereobucheniya-Slides.pdf)
 		- [Syllabus](./syllabus/2-1.Problema_pereobucheniya_i_bor_ba_s_nej.pdf)
+	- Measure Quality:
+		- [Slides](./slides/2-2.Metriki_kachestva-Slides.pdf)
+		- [Syllabus](./syllabus/2-2.Metriki_kachestva.pdf)
 		
