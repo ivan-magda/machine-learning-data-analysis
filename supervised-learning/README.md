@@ -23,4 +23,6 @@ A supervised learning algorithm analyzes the training data and produces an infer
 	- Measure Quality:
 		- [Slides](./slides/2-2.Metriki_kachestva-Slides.pdf)
 		- [Syllabus](./syllabus/2-2.Metriki_kachestva.pdf)
+	- Intro to *scikit-learn*:
+		- [Datasets](./sklearn-datasets/sklearn-datasets.ipynb)
 		
