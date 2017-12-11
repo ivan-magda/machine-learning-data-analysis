@@ -26,4 +26,5 @@ A supervised learning algorithm analyzes the training data and produces an infer
 	- Intro to *scikit-learn*:
 		- [Datasets](./sklearn-datasets/sklearn-datasets.ipynb)
 		- [Cross-validation](./sklearn-cross-validation/sklearn-cross-validation.ipynb)
+		- [Linear Model: 1](./sklearn-linear-model-1.ipynb/sklearn-linear-model-1.ipynb)
 		
