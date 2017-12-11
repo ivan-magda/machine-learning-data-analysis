@@ -27,4 +27,5 @@ A supervised learning algorithm analyzes the training data and produces an infer
 		- [Datasets](./sklearn-datasets/sklearn-datasets.ipynb)
 		- [Cross-Validation](./sklearn-cross-validation/sklearn-cross-validation.ipynb)
 		- [Linear Model: 1](./sklearn-linear-model-1/sklearn-linear-model-1.ipynb)
+		- [Linear Model: 2](./sklearn-linear-model-2/sklearn-linear-model-2.ipynb)
 		
