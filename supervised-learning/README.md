@@ -32,4 +32,8 @@ A supervised learning algorithm analyzes the training data and produces an infer
 	- Tasks:
 		- [Overfitting: Bikes Rent](./overfitting-task/overfitting-task.ipynb)
 		- [Metrics](./metrics-pa/metrics.ipynb)
+- Week 3
+	- Linear Models: Statistics
+		- [Slides](./slides/3-1.Linejnye_modeli_statisticheskij_vzgljad-Slides.pdf)
+		- [Syllabus](./syllabus/3-1.Linejnye_modeli_statisticheskij_vzglyad.pdf)
 		
