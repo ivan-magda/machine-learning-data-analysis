@@ -29,4 +29,6 @@ A supervised learning algorithm analyzes the training data and produces an infer
 		- [Linear Model: 1](./sklearn-linear-model-1/sklearn-linear-model-1.ipynb)
 		- [Linear Model: 2](./sklearn-linear-model-2/sklearn-linear-model-2.ipynb)
 		- [Metrics](./sklearn-metrics/sklearn-metrics.ipynb)
+	- Tasks:
+		- [Overfitting: Bikes Rent](./overfitting-task/overfitting-task.ipynb)
 		
