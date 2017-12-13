@@ -39,4 +39,6 @@ A supervised learning algorithm analyzes the training data and produces an infer
 	- Linear Models: Practical Advice
 		- [Slides](./slides/3-2.Prakticheskii_rekomendacii_po_linejnym_modeljam-Slides.pdf)
 		- [Syllabus](./syllabus/3-2.Prakticheskie_rekomendacii_po_linejnym_modelyam.pdf)
+	- Continuing Intro to the `scikit-learn`:
+		- [Grid Search](./sklearn-grid-search/sklearn-grid-search.ipynb)
 		
