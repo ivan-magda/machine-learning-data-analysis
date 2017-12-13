@@ -36,4 +36,7 @@ A supervised learning algorithm analyzes the training data and produces an infer
 	- Linear Models: Statistics
 		- [Slides](./slides/3-1.Linejnye_modeli_statisticheskij_vzgljad-Slides.pdf)
 		- [Syllabus](./syllabus/3-1.Linejnye_modeli_statisticheskij_vzglyad.pdf)
+	- Linear Models: Practical Advice
+		- [Slides](./slides/3-2.Prakticheskii_rekomendacii_po_linejnym_modeljam-Slides.pdf)
+		- [Syllabus](./syllabus/3-2.Prakticheskie_rekomendacii_po_linejnym_modelyam.pdf)
 		
