@@ -41,4 +41,5 @@ A supervised learning algorithm analyzes the training data and produces an infer
 		- [Syllabus](./syllabus/3-2.Prakticheskie_rekomendacii_po_linejnym_modelyam.pdf)
 	- Continuing Intro to the `scikit-learn`:
 		- [Grid Search](./sklearn-grid-search/sklearn-grid-search.ipynb)
+		- [Bike Sharing Demand: Part 1](./sklearn-case-part-1/sklearn-case-part-1.ipynb)
 		
