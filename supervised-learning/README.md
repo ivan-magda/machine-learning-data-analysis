@@ -23,7 +23,7 @@ A supervised learning algorithm analyzes the training data and produces an infer
 	- Measure Quality:
 		- [Slides](./slides/2-2.Metriki_kachestva-Slides.pdf)
 		- [Syllabus](./syllabus/2-2.Metriki_kachestva.pdf)
-	- Intro to `scikit-learn`:
+	- Intro to *scikit-learn*:
 		- [Datasets](./sklearn-datasets/sklearn-datasets.ipynb)
 		- [Cross-Validation](./sklearn-cross-validation/sklearn-cross-validation.ipynb)
 		- [Linear Model: 1](./sklearn-linear-model-1/sklearn-linear-model-1.ipynb)
@@ -39,7 +39,7 @@ A supervised learning algorithm analyzes the training data and produces an infer
 	- Linear Models: Practical Advice
 		- [Slides](./slides/3-2.Prakticheskii_rekomendacii_po_linejnym_modeljam-Slides.pdf)
 		- [Syllabus](./syllabus/3-2.Prakticheskie_rekomendacii_po_linejnym_modelyam.pdf)
-	- Continuing Intro to the `scikit-learn`:
+	- Continuing Intro to the *scikit-learn*:
 		- [Grid Search](./sklearn-grid-search/sklearn-grid-search.ipynb)
 		- [Bike Sharing Demand: Part 1](./sklearn-case-part-1/sklearn-case-part-1.ipynb)
 		
