@@ -42,7 +42,7 @@ A supervised learning algorithm analyzes the training data and produces an infer
 	- Continuing Intro to the *scikit-learn*:
 		- [Grid Search](./sklearn-grid-search/sklearn-grid-search.ipynb)
 		- [Bike Sharing Demand: Part 1](./sklearn-case-part-1/sklearn-case-part-1.ipynb)
-		- [Bike Sharing Demand: Part 1](./sklearn-case-part-2/sklearn-case-part-2.ipynb)
+		- [Bike Sharing Demand: Part 2](./sklearn-case-part-2/sklearn-case-part-2.ipynb)
 	- Tasks:
 		- [Preprocessing](./preprocessing-lr/preprocessing-lr.ipynb)
 		
