@@ -45,4 +45,6 @@ A supervised learning algorithm analyzes the training data and produces an infer
 		- [Bike Sharing Demand: Part 2](./sklearn-case-part-2/sklearn-case-part-2.ipynb)
 	- Tasks:
 		- [Preprocessing](./preprocessing-lr/preprocessing-lr.ipynb)
-		
+- Week 4
+	- Decision Trees
+		- [sklearn: Decision Trees](./sklearn-decision-trees/sklearn-decision-trees.ipynb)
