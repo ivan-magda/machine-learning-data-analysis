@@ -48,3 +48,5 @@ A supervised learning algorithm analyzes the training data and produces an infer
 - Week 4
 	- Decision Trees
 		- [sklearn: Decision Trees](./sklearn-decision-trees/sklearn-decision-trees.ipynb)
+		- [Slides](./slides/4-1.Reshayushchie_derev_ya-Slides.pdf)
+		- [Syllabus](./syllabus/4-1.Reshayushchie_derev_ya.pdf)
