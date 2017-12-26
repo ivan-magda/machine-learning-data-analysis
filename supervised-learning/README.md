@@ -57,5 +57,7 @@ A supervised learning algorithm analyzes the training data and produces an infer
 	- Gradient Boosting
 		- [XGBoost](./syllabus/xgboost.pdf)
 		- [sklearn: Random Forest vs Gradient Boosting](./sklearn-rf-vs-gb/sklearn-rf-vs-gb.ipynb)
+		- [Slides](./slides/4-3.Boosting-Slides.pdf)
+		- [Syllabus](./syllabus/4-3.Gradientnyj_busting.pdf)
 	- Tasks:
 		- [Bagging, Random Forest](./bagging-random-forest/solution.ipynb)
