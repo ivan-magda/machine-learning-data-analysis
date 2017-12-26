@@ -56,5 +56,6 @@ A supervised learning algorithm analyzes the training data and produces an infer
 		- [sklearn: Random Forest](./sklearn-random-forest/sklearn-random-forest.ipynb)
 	- Gradient Boosting
 		- [XGBoost](./syllabus/xgboost.pdf)
+		- [sklearn: Random Forest vs Gradient Boosting](./sklearn-rf-vs-gb/sklearn-rf-vs-gb.ipynb)
 	- Tasks:
 		- [Bagging, Random Forest](./bagging-random-forest/solution.ipynb)
