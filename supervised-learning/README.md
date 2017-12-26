@@ -50,3 +50,6 @@ A supervised learning algorithm analyzes the training data and produces an infer
 		- [sklearn: Decision Trees](./sklearn-decision-trees/sklearn-decision-trees.ipynb)
 		- [Slides](./slides/4-1.Reshayushchie_derev_ya-Slides.pdf)
 		- [Syllabus](./syllabus/4-1.Reshayushchie_derev_ya.pdf)
+	- Random Forests
+		- [Slides](./slides/4-2.Kompozicii-derev_ev-Slides.pdf)
+		- [Syllabus](./syllabus/4-2.Sluchajnye_lesa.pdf)
