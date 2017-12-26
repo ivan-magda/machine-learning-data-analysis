@@ -54,3 +54,5 @@ A supervised learning algorithm analyzes the training data and produces an infer
 		- [Slides](./slides/4-2.Kompozicii-derev_ev-Slides.pdf)
 		- [Syllabus](./syllabus/4-2.Sluchajnye_lesa.pdf)
 		- [sklearn: Random Forest](./sklearn-random-forest/sklearn-random-forest.ipynb)
+	- Tasks:
+		- [Bagging, Random Forest](./bagging-random-forest/solution.ipynb)
