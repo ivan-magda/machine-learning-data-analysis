@@ -71,4 +71,7 @@ A supervised learning algorithm analyzes the training data and produces an infer
 	    - [Slides](./slides/5-2.Bayes_classification-Slides.pdf)
 		- [Syllabus](./syllabus/5-2.Bajesovskaya_klassifikaciya_i_regressiya.pdf)
 		- [Assignment: Bayes Classification](./bayes-clf/solution.ipynb)
+	- Metrics and SVM
+		- [Slides](./slides/5-3.KNN-Slides.pdf)
+		- [Syllabus](./syllabus/5-3.Metricheskie_algoritmy_i_SVM.pdf)
 		
