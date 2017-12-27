@@ -62,3 +62,8 @@ A supervised learning algorithm analyzes the training data and produces an infer
 	- Tasks:
 		- [Bagging, Random Forest](./bagging-random-forest/solution.ipynb)
 		- [Gradient Boosting](./grad-boosting/grad-boosting.ipynb)
+- Week 5
+	- Neural Nets
+		- [Slides](./slides/5-1.Nejronnaya-set_-Slides.pdf)
+		- [Syllabus](./syllabus/5-1.Nejronnye_seti.pdf)
+		
