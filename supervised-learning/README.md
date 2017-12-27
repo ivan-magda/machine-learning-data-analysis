@@ -70,4 +70,5 @@ A supervised learning algorithm analyzes the training data and produces an infer
 	- Bayes Classification
 	    - [Slides](./slides/5-2.Bayes_classification-Slides.pdf)
 		- [Syllabus](./syllabus/5-2.Bajesovskaya_klassifikaciya_i_regressiya.pdf)
+		- [Assignment: Bayes Classification](./bayes-clf/solution.ipynb)
 		
