@@ -61,3 +61,4 @@ A supervised learning algorithm analyzes the training data and produces an infer
 		- [Syllabus](./syllabus/4-3.Gradientnyj_busting.pdf)
 	- Tasks:
 		- [Bagging, Random Forest](./bagging-random-forest/solution.ipynb)
+		- [Gradient Boosting](./grad-boosting/grad-boosting.ipynb)
