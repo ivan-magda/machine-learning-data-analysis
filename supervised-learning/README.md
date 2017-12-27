@@ -66,4 +66,5 @@ A supervised learning algorithm analyzes the training data and produces an infer
 	- Neural Nets
 		- [Slides](./slides/5-1.Nejronnaya-set_-Slides.pdf)
 		- [Syllabus](./syllabus/5-1.Nejronnye_seti.pdf)
+		- [Neural Nets](./neural-nets/task-nn.ipynb)
 		
