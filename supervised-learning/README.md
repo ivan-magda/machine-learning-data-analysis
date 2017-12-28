@@ -74,6 +74,9 @@ A supervised learning algorithm analyzes the training data and produces an infer
 	- Metrics and SVM
 		- [Slides](./slides/5-3.KNN-Slides.pdf)
 		- [Syllabus](./syllabus/5-3.Metricheskie_algoritmy_i_SVM.pdf)
+	- Bayes Theorem
+		- [Slides](./slides/5-4.Bayes_theorem-Slides.pdf)
+		- [Syllabus](./syllabus/5-4.Teorema_Bajesa_v_mashinnom_obuchenii.pdf)
 	- Bonus
 		- [imdb](./imdb/imdb.ipynb)
 		
