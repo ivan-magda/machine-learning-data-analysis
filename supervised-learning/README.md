@@ -74,4 +74,6 @@ A supervised learning algorithm analyzes the training data and produces an infer
 	- Metrics and SVM
 		- [Slides](./slides/5-3.KNN-Slides.pdf)
 		- [Syllabus](./syllabus/5-3.Metricheskie_algoritmy_i_SVM.pdf)
+	- Bonus
+		- [imdb](./imdb/imdb.ipynb)
 		
