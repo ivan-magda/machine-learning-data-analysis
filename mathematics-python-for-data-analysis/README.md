@@ -14,7 +14,7 @@
 - Week 2
 	- [Pandas: Data Frame](./pandas-dataframe/pandas-dataframe.ipynb)
 	- [Pandas: Indexing and Selection](./pandas-indexing-selection/pandas-indexing-selection.ipynb)
-	- [Introduction to NumPy, SciPy and Matplotlib](./numpy-scipy-matplotlib-intro)
+	- [Introduction to NumPy, SciPy and Matplotlib](./numpy-scipy-matplotlib-intro/NumPy-SciPy-Matplotlib-intro.ipynb)
 	- [SciPy: Optimization](./scipy-optimization/scipy-optimization.ipynb)
 	- [NumPy: Vector Operations](./vector-operations/vector-operations.ipynb)
 	- [Syllabus: Introduction to Linear Algebra](./syllabus/2-1.Znakomstvo-s-linejnoj-algebroj.pdf)
