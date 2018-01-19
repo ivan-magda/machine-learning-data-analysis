@@ -33,7 +33,7 @@
 	- [Syllabus: Probability and Random Variables](./syllabus/4-1.Veroyatnost-i-sluchajnye-velichiny.pdf)
 	- [Stochastic Variables](./stochastic-variables/stochastic_variables.ipynb)
 	- [Distribution Evaluation](./distribution-evaluation/sample_distribution_evaluation.ipynb)
-	- [Task: Central Limit Theorem](./task-central-limit-theorem)
+	- [Task: Central Limit Theorem](./task-central-limit-theorem/central-limit-theorem.ipynb)
 	- [Syllabus: statistics](./syllabus/4-2.Statistiki.pdf)
 - [Bonus](./bonus-wine)
 - [Notes](./notes.md)
