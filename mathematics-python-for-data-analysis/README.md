@@ -12,7 +12,7 @@
 	- [Syllabus: Programming in Python](./syllabus/1-2.Programmirovanie-na-Python.pdf)
 	- [Syllabus: Foundations of Mathematical Analysis](./syllabus/1-3.Osnovy-matematicheskogo-analiza.pdf)
 - Week 2
-	- [Pandas: Data Frame](./pandas-dataframe)
+	- [Pandas: Data Frame](./pandas-dataframe/pandas-dataframe.ipynb)
 	- [Pandas: Indexing and Selection](./pandas-indexing-selection)
 	- [Introduction to NumPy, SciPy and Matplotlib](./numpy-scipy-matplotlib-intro)
 	- [SciPy: Optimization](./scipy-optimization/scipy-optimization.ipynb)
