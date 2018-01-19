@@ -13,7 +13,7 @@
 	- [Syllabus: Foundations of Mathematical Analysis](./syllabus/1-3.Osnovy-matematicheskogo-analiza.pdf)
 - Week 2
 	- [Pandas: Data Frame](./pandas-dataframe/pandas-dataframe.ipynb)
-	- [Pandas: Indexing and Selection](./pandas-indexing-selection)
+	- [Pandas: Indexing and Selection](./pandas-indexing-selection/pandas-indexing-selection.ipynb)
 	- [Introduction to NumPy, SciPy and Matplotlib](./numpy-scipy-matplotlib-intro)
 	- [SciPy: Optimization](./scipy-optimization/scipy-optimization.ipynb)
 	- [NumPy: Vector Operations](./vector-operations/vector-operations.ipynb)
