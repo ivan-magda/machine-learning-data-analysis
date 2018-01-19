@@ -5,7 +5,7 @@
 	- [Introduction to ipython](./introduction-to-notebooks/intro-notebooks.ipynb)
 	- [Task: Python Setup](./task-python-setup/python-setup.ipynb)
 	- [Syllabus: Introduction](./syllabus/1-1.Vvedenie.pdf)
-	- [Python Data Types](./data-types)
+	- [Python Data Types](./data-types/data-types.ipynb)
 	- [Loops, Functions, Generators and List Comprehensions](./loops-and-functions/loops-functions.ipynb)
 	- [Read Data from a File](./read-from-file/read-from-file.ipynb)
 	- [Write/Edit File](./write-to-file)
