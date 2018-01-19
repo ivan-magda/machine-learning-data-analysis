@@ -7,7 +7,7 @@
 	- [Syllabus: Introduction](./syllabus/1-1.Vvedenie.pdf)
 	- [Python Data Types](./data-types)
 	- [Loops, Functions, Generators and List Comprehensions](./loops-and-functions/loops-functions.ipynb)
-	- [Read Data from a File](./read-from-file)
+	- [Read Data from a File](./read-from-file/read-from-file.ipynb)
 	- [Write/Edit File](./write-to-file)
 	- [Syllabus: Programming in Python](./syllabus/1-2.Programmirovanie-na-Python.pdf)
 	- [Syllabus: Foundations of Mathematical Analysis](./syllabus/1-3.Osnovy-matematicheskogo-analiza.pdf)
